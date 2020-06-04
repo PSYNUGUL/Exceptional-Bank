@@ -1,0 +1,6 @@
+penny: 6
+ Dime:  3
+Quarter: 6
+PENNY: 4
+NICKEL  : 5
+Dime: 2
